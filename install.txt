@@ -1,0 +1,29 @@
+chromium-browser
+burg ?
+vim
+git
+zsh
+gimp
+inkscape
+terminator
+thunderbird -> comment changer icone ? + dpi
+libreoffice
+
+texlive-latex-base
+texlive-latex-extra
+
+texlive-fonts-recommended
+texlive-fonts-extra
+
+texlive-lang-french
+
+nodejs
+npm
+nodejs-legacy #ajoute un lien indispensable au bon fonctionnement de nodejs
+filezilla
+
+
+# installation elementary tweaks
+sudo apt-add-repository ppa:mpstark/elementary-tweaks-daily
+sudo apt-get update
+sudo apt-get install elementary-tweak
